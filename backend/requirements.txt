@@ -1,0 +1,13 @@
+selenium
+beautifulsoup4
+lxml
+file_utils
+pandas
+jupyterlab
+numpy
+seaborn
+ipykernel
+prettytable
+IPython
+Pyarrow
+openpyxl
